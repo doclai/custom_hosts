@@ -1,2 +1,6 @@
 0.0.0.0 comicaholic.com
 0.0.0.0 api.comicaholic.com
+0.0.0.0 doctruyen3qon.com
+0.0.0.0 doctruyen3qon.org
+0.0.0.0 nhattruyenmin.com
+0.0.0.0 nettruyenplus.com
