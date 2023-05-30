@@ -180,6 +180,8 @@
 0.0.0.0 asian-xxx.pro
 0.0.0.0 porn-hub.pro
 0.0.0.0 indoporn.pro
+0.0.0.0 www.gesek.net
+0.0.0.0 gesek.net
 0.0.0.0 loigiaihay.com
 0.0.0.0 vietjack.com
 0.0.0.0 vietjack.me
@@ -263,6 +265,15 @@
 0.0.0.0 pornomamki.ru
 0.0.0.0 hexat.com
 0.0.0.0 tieuthuyettinhyeu.hexat.com
+0.0.0.0 jav678.top
+0.0.0.0 hentaikhongche.net
+0.0.0.0 phimsexcotrang.com
+0.0.0.0 xnxxvn.biz
+0.0.0.0 xxngon.lol
+0.0.0.0 phimsex247.org
+0.0.0.0 gaidam.vip
+0.0.0.0 phimsetmoi.biz
+0.0.0.0 javhdsex.org
 0.0.0.0 y2mate.com
 0.0.0.0 www.y2mate.com
 0.0.0.0 y2meta.com
