@@ -8,3 +8,4 @@
 0.0.0.0 taimienphi.vn
 0.0.0.0 timdapan.com
 0.0.0.0 doctailieu.com
+0.0.0.0 tech12h.com
